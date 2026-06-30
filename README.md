@@ -118,6 +118,12 @@ DiffGate is a research prototype. The default training-free score is usable as a
 
 ---
 
+## Related repository
+
+This repository contains the reusable implementation of the early-abort filtering framework.
+
+The implementation code and experiment artifacts used in the thesis is available as a separate repository: **[Early Signals Predict Quality in Image Generation — implementation code]([https://github.com/karbolak/early-signals-t2i-quality-code])**.
+
 ## Citation
 
 ```bibtex
