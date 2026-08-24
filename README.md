@@ -14,7 +14,8 @@ It supports two scoring modes:
 - `training_free`: a hand-designed trajectory health score;
 - `supervised`: a saved sklearn-style prefix-quality predictor.
 
-DiffGate is released as a research and reproducibility artifact for a Bachelor thesis on early quality prediction in text-to-image diffusion. It is not a production-quality filtering system.
+DiffGate is released as a research and reproducibility artifact for a [Bachelor thesis](./Early%20Signals%20Predict%20Quality%20in%20Image%20Generation%20%E2%80%93%20Bachelor%E2%80%99s%20Project%20Thesis.pdf)
+ on early quality prediction in text-to-image diffusion. It is not a production-quality filtering system.
 
 ---
 
